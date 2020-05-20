@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+Hi there!
+
+I'm Neniya. I'm new here
